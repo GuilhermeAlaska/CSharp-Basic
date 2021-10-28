@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da644fc2-6423-479e-a7b7-e756f9bff62b": {
+      "ProjectGuid": "da644fc2-6423-479e-a7b7-e756f9bff62b",
+      "DisplayName": "ACM.BL",
+      "ColorIndex": 0
+    },
+    "96def168-f44e-43bc-b21e-6a73769db1ab": {
+      "ProjectGuid": "96def168-f44e-43bc-b21e-6a73769db1ab",
+      "DisplayName": "ACM.BLTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

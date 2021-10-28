@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "ca2e4351-09a5-465d-ae40-d29b0c62ae63": {
+      "ProjectGuid": "ca2e4351-09a5-465d-ae40-d29b0c62ae63",
+      "DisplayName": "sss",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\bin\Debug\net6.0\sss.exe
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\bin\Debug\net6.0\sss.deps.json
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\bin\Debug\net6.0\sss.runtimeconfig.json
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\bin\Debug\net6.0\sss.dll
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\bin\Debug\net6.0\ref\sss.dll
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\bin\Debug\net6.0\sss.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.GlobalUsings.g.cs
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.dll
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\ref\sss.dll
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.pdb
+C:\Users\guilh\Desktop\Guilherme\C#\ACM.BL\sss\sss\obj\Debug\net6.0\sss.genruntimeconfig.cache
