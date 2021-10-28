@@ -24,14 +24,32 @@ namespace CCodeAcademy
             //Console.WriteLine(evenNumber + oddNumber);
             //Console.WriteLine(evenNumber - oddNumber);
 
-            string name = "Shadow";
-            string breed = "Golden Retriever";
+            //string name = "Shadow";
+            //string breed = "Golden Retriever";
 
-            int age = 5;
-            double weight = 65.22;
-            bool spayed = true;
+            //int age = 5;
+            //double weight = 65.22;
+            //bool spayed = true;
 
-            Console.WriteLine(name + " " + breed + " " + age + " " + weight + " " + spayed);
+            //Console.WriteLine(name + " " + breed + " " + age + " " + weight + " " + spayed);
+
+
+            // Conversion Data Types
+            // See typeof a element
+
+            //bool jes = true;
+            //string key = jes.ToString();
+
+            //if (key is string) Console.Write("A variável é string");
+            //Console.WriteLine(key);
+
+            
+
+
+
+
+
+
 
             Console.ReadKey();
         }
