@@ -121,6 +121,14 @@ class Program
                 break;
         }
 
+        int personAge = 20;
+        int dogFirstYear = 15;
+        int dogSecondYear = 9;
+        int dogMoreYears = 5;
+        int personAgeInDogYears = ((personAge - 2) * dogMoreYears) + dogFirstYear + dogSecondYear;
+
+
+        Console.WriteLine(personAgeInDogYears);
 
 
 
@@ -130,9 +138,7 @@ class Program
 
 
 
-
-
-                Console.ReadKey();
+        Console.ReadKey();
 
     }
 }
