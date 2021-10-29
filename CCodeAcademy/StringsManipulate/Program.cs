@@ -40,6 +40,20 @@ class Program
 
 
 
+        // User Name
+        string name = "Farhad Hesam Abbasi";
+
+        // Get first letter
+        int charPosition = name.IndexOf("F");
+        char firstLetter = name[charPosition];
+
+        // Get last name
+        int lastNamePosition = name.IndexOf("Abbasi");
+        string lastName = name.Substring(lastNamePosition);
+        // Print results
+        Console.WriteLine(lastName);
+
+
 
 
 
