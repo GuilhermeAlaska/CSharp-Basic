@@ -54,6 +54,39 @@ class Program
         Console.WriteLine(lastName);
 
 
+        // Out Method
+        string ageAsString = "102";
+        string nameAsString = "Granny";
+        int ageAsInt;
+        //bool outcome;
+
+        //outcome = Int32.TryParse(ageAsString, out ageAsInt); // This method is making a string into a int
+        //Console.WriteLine($"{outcome}, {ageAsInt}");
+
+
+        string destination = "Neptune";
+        string galaxyString = "8";
+        int galaxyInt;
+        string welcomeMessage;
+        bool outcome;
+
+        // Call DecoratePlanet() and TryParse() here
+        welcomeMessage = DecoratePlanet(destination);
+        outcome = Int32.TryParse(galaxyString, out galaxyInt);
+        // Print results
+        Console.WriteLine(welcomeMessage);
+        Console.WriteLine($"Parsed to int? {outcome}: {galaxyInt}");
+
+
+        // Fat Arrow method
+    //    Welcome("Earth");
+    //    double days = 500;
+    //    double rotations = DaysToRotations(days);
+    //    Console.WriteLine($"In {days} days, the Earth has rotated {rotations} time(s).");
+    //}
+    //static double DaysToRotations(double days) => days / 365;
+
+    //static void Welcome(string planet) => Console.WriteLine($"Welcome to {planet}!");
 
 
 
@@ -63,9 +96,21 @@ class Program
 
 
 
+    Console.ReadKey();
+    }
+    
+    // Define a method that returns a string
+    static string DecoratePlanet(string planet)
+    {
+        return $"*..*..* Welcome to {planet} *..*..*";
+    }
 
-
-        Console.ReadKey();
+    
+    // Define a method with out
+    static string Whisper(string phrase, out bool wasWhisperCalled)
+    {
+        wasWhisperCalled = true;
+        return phrase.ToLower();
     }
 }
 
